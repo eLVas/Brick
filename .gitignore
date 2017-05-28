@@ -47,3 +47,8 @@ Temporary Items
 .apdisk
 
 *config.h
+
+data/*
+data.csv
+
+*node_modules*
